@@ -1,0 +1,38 @@
+.sidebar-brand .sidebar-brand-icon {
+  max-width: 40px;
+}
+
+.sidebar-brand .sidebar-brand-text {
+  text-transform: none;
+  font-size: 14px;
+}
+
+.language-flag-wrapper {
+  width: 32px;
+}
+
+.z-1 {
+  z-index: 1;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.btn-no-outline:focus,.btn-no-outline:active {
+  outline: none !important;
+  box-shadow: none;
+}
+
+.badge-primary {
+  background-color: #284CBB;
+}
+
+table tbody td {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+thead th {
+  border: none !important;
+}

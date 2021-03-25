@@ -12,4 +12,4 @@ RUN ["/app/django/docker/build.sh"]
 EXPOSE 80
 
 RUN ["chmod", "+x", "/app/django/docker/entrypoint.sh"]
-RUN ["/app/django/docker/entrypoint.she"]
+RUN ["/app/django/docker/entrypoint.sh"]
