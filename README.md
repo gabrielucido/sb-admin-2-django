@@ -1,4 +1,4 @@
-# Django SB Admin
+# Django SB Admin 2
 
 ## Run with
 docker-compose up --build
